@@ -1,0 +1,28 @@
+table {
+  border-collapse: collapse;
+
+}
+td {
+  background-color: #41bf41;
+  margin:0px;
+  border:1px solid #c1ffc1;
+  padding: 30px;
+  text-align: center;
+  color:white;
+
+}
+.operators {
+  color:black;
+  background-color: #7fd17f;
+
+}
+.operators:hover {
+  color:white;
+
+}
+.clear_enter:hover {
+  background-color: #7fd17f;
+}
+label {
+  background-color: #41bf41;
+}
